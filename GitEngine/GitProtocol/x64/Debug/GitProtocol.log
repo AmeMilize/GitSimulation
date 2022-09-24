@@ -1,0 +1,4 @@
+﻿  GitProtocol.c
+C:\Users\11692\Desktop\GitSimulation\GitEngine\GitProtocol\Source\GitProtocol.c(62,25): warning C4090: “函数”: 不同的“const”限定符
+C:\Users\11692\Desktop\GitSimulation\GitEngine\GitProtocol\Source\GitProtocol.c(62,30): warning C4090: “函数”: 不同的“const”限定符
+  GitProtocol.vcxproj -> C:\Users\11692\Desktop\GitSimulation\GitEngine\x64\Debug\GitProtocol.lib

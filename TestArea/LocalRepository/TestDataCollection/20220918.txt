@@ -1,0 +1,73 @@
+[LOG][Sun Sep 18 19:08:25 2022] version commit information : testversion 
+[LOG][Sun Sep 18 19:08:46 2022] 将路径下的 C:\Users\11692\Desktop\SimpleGit\log\20220909.txt 拉取到 C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220909.txt 成功 
+[LOG][Sun Sep 18 19:08:46 2022] 将路径下的 C:\Users\11692\Desktop\SimpleGit\log\20220912.txt 拉取到 C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220912.txt 成功 
+[LOG][Sun Sep 18 19:08:46 2022] 将路径下的 C:\Users\11692\Desktop\SimpleGit\log\20220913.txt 拉取到 C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220913.txt 成功 
+[LOG][Sun Sep 18 19:08:46 2022] 将路径下的 C:\Users\11692\Desktop\SimpleGit\log\20220914.txt 拉取到 C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220914.txt 成功 
+[LOG][Sun Sep 18 19:08:46 2022] 将路径下的 C:\Users\11692\Desktop\SimpleGit\log\20220915.txt 拉取到 C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220915.txt 成功 
+[LOG][Sun Sep 18 19:08:46 2022] 将路径下的 C:\Users\11692\Desktop\SimpleGit\log\20220917.txt 拉取到 C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220917.txt 成功 
+[SUCCESS][Sun Sep 18 19:08:48 2022] Send Version Data Success 
+[SUCCESS][Sun Sep 18 19:08:50 2022] Send Version Data Success 
+[LOG][Sun Sep 18 19:11:35 2022] version commit information : testversionsuperplus 
+[LOG][Sun Sep 18 19:11:52 2022] 将路径下的 C:\Users\11692\Desktop\SimpleGit\log\20220909.txt 拉取到 C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220909.txt 成功 
+[LOG][Sun Sep 18 19:11:52 2022] 将路径下的 C:\Users\11692\Desktop\SimpleGit\log\20220912.txt 拉取到 C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220912.txt 成功 
+[LOG][Sun Sep 18 19:11:52 2022] 将路径下的 C:\Users\11692\Desktop\SimpleGit\log\20220913.txt 拉取到 C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220913.txt 成功 
+[LOG][Sun Sep 18 19:11:52 2022] 将路径下的 C:\Users\11692\Desktop\SimpleGit\log\20220914.txt 拉取到 C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220914.txt 成功 
+[LOG][Sun Sep 18 19:11:52 2022] 将路径下的 C:\Users\11692\Desktop\SimpleGit\log\20220915.txt 拉取到 C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220915.txt 成功 
+[LOG][Sun Sep 18 19:11:52 2022] 将路径下的 C:\Users\11692\Desktop\SimpleGit\log\20220917.txt 拉取到 C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220917.txt 成功 
+[LOG][Sun Sep 18 19:11:52 2022] 将路径下的 C:\Users\11692\Desktop\SimpleGit\log\20220918.txt 拉取到 C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220918.txt 成功 
+[SUCCESS][Sun Sep 18 19:11:53 2022] Send Version Data Success 
+[SUCCESS][Sun Sep 18 19:11:55 2022] Send Version Data Success 
+[LOG][Sun Sep 18 19:27:32 2022] version commit information : wdnmd 
+[LOG][Sun Sep 18 19:27:48 2022] Copy from C:\Users\11692\Desktop\SimpleGit\log\20220909.txt to C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220909.txt successed! 
+[LOG][Sun Sep 18 19:27:48 2022] Copy from C:\Users\11692\Desktop\SimpleGit\log\20220912.txt to C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220912.txt successed! 
+[LOG][Sun Sep 18 19:27:48 2022] Copy from C:\Users\11692\Desktop\SimpleGit\log\20220913.txt to C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220913.txt successed! 
+[LOG][Sun Sep 18 19:27:48 2022] Copy from C:\Users\11692\Desktop\SimpleGit\log\20220914.txt to C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220914.txt successed! 
+[LOG][Sun Sep 18 19:27:48 2022] Copy from C:\Users\11692\Desktop\SimpleGit\log\20220915.txt to C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220915.txt successed! 
+[LOG][Sun Sep 18 19:27:48 2022] Copy from C:\Users\11692\Desktop\SimpleGit\log\20220917.txt to C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220917.txt successed! 
+[LOG][Sun Sep 18 19:27:48 2022] Copy from C:\Users\11692\Desktop\SimpleGit\log\20220918.txt to C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220918.txt successed! 
+[SUCCESS][Sun Sep 18 19:27:49 2022] Send Version Data Success 
+[SUCCESS][Sun Sep 18 19:27:51 2022] Send Version Data Success 
+[SUCCESS][Sun Sep 18 19:29:22 2022] Get server newest version number! 
+[SUCCESS][Sun Sep 18 19:39:17 2022] Get server newest version number! 
+[SUCCESS][Sun Sep 18 19:43:46 2022] Get server newest version number! 
+[SUCCESS][Sun Sep 18 19:49:49 2022] Get server newest version number! 
+[SUCCESS][Sun Sep 18 19:52:30 2022] Get server newest version number! 
+[SUCCESS][Sun Sep 18 19:52:35 2022] Need to update next version! 
+[SUCCESS][Sun Sep 18 19:55:39 2022] Get server newest version number! 
+[SUCCESS][Sun Sep 18 19:57:04 2022] Get server newest version number! 
+[SUCCESS][Sun Sep 18 19:57:14 2022] Need to update next version! 
+[SUCCESS][Sun Sep 18 19:59:26 2022] Get server newest version number! 
+[SUCCESS][Sun Sep 18 19:59:32 2022] Need to update next version! 
+[SUCCESS][Sun Sep 18 20:02:31 2022] Get server newest version number! 
+[SUCCESS][Sun Sep 18 20:02:33 2022] Need to update next version! 
+[SUCCESS][Sun Sep 18 20:03:58 2022] Get server newest version number! 
+[SUCCESS][Sun Sep 18 20:04:00 2022] Need to update next version! 
+[SUCCESS][Sun Sep 18 20:06:23 2022] Get server newest version number! 
+[SUCCESS][Sun Sep 18 20:06:31 2022] Need to update next version! 
+[SUCCESS][Sun Sep 18 20:25:06 2022] Get server newest version number! 
+[SUCCESS][Sun Sep 18 20:25:09 2022] Need to update next version! 
+[SUCCESS][Sun Sep 18 20:27:51 2022] Get server newest version number! 
+[SUCCESS][Sun Sep 18 20:28:28 2022] Get server newest version number! 
+[SUCCESS][Sun Sep 18 20:28:31 2022] Need to update next version! 
+[LOG][Sun Sep 18 20:37:55 2022] version commit information : VersionA 
+[LOG][Sun Sep 18 20:38:24 2022] Copy from C:\Users\11692\Desktop\SimpleGit\log\20220909.txt to C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220909.txt successed! 
+[LOG][Sun Sep 18 20:38:24 2022] Copy from C:\Users\11692\Desktop\SimpleGit\log\20220912.txt to C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220912.txt successed! 
+[LOG][Sun Sep 18 20:38:24 2022] Copy from C:\Users\11692\Desktop\SimpleGit\log\20220913.txt to C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220913.txt successed! 
+[LOG][Sun Sep 18 20:38:24 2022] Copy from C:\Users\11692\Desktop\SimpleGit\log\20220914.txt to C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220914.txt successed! 
+[LOG][Sun Sep 18 20:38:24 2022] Copy from C:\Users\11692\Desktop\SimpleGit\log\20220915.txt to C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220915.txt successed! 
+[LOG][Sun Sep 18 20:38:24 2022] Copy from C:\Users\11692\Desktop\SimpleGit\log\20220917.txt to C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220917.txt successed! 
+[LOG][Sun Sep 18 20:38:24 2022] Copy from C:\Users\11692\Desktop\SimpleGit\log\20220918.txt to C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220918.txt successed! 
+[SUCCESS][Sun Sep 18 20:38:26 2022] Send Version Data Success 
+[SUCCESS][Sun Sep 18 20:38:27 2022] Send Version Data Success 
+[LOG][Sun Sep 18 20:45:50 2022] version commit information : VersionB 
+[LOG][Sun Sep 18 20:46:03 2022] Copy from C:\Users\11692\Desktop\SimpleGit\log\20220909.txt to C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220909.txt successed! 
+[LOG][Sun Sep 18 20:46:03 2022] Copy from C:\Users\11692\Desktop\SimpleGit\log\20220912.txt to C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220912.txt successed! 
+[LOG][Sun Sep 18 20:46:03 2022] Copy from C:\Users\11692\Desktop\SimpleGit\log\20220913.txt to C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220913.txt successed! 
+[LOG][Sun Sep 18 20:46:03 2022] Copy from C:\Users\11692\Desktop\SimpleGit\log\20220914.txt to C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220914.txt successed! 
+[LOG][Sun Sep 18 20:46:03 2022] Copy from C:\Users\11692\Desktop\SimpleGit\log\20220915.txt to C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220915.txt successed! 
+[LOG][Sun Sep 18 20:46:03 2022] Copy from C:\Users\11692\Desktop\SimpleGit\log\20220917.txt to C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220917.txt successed! 
+[LOG][Sun Sep 18 20:46:03 2022] Copy from C:\Users\11692\Desktop\SimpleGit\log\20220918.txt to C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220918.txt successed! 
+[SUCCESS][Sun Sep 18 20:46:04 2022] Send Version Data Success 
+[SUCCESS][Sun Sep 18 20:46:06 2022] Send Version Data Success 
+[SUCCESS][Sun Sep 18 20:49:05 2022] Get server newest version number! 
+[SUCCESS][Sun Sep 18 20:49:07 2022] Need to update next version! 

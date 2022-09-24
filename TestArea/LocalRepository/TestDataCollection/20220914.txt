@@ -1,0 +1,239 @@
+[LOG][Wed Sep 14 12:24:59 2022] version commit information : verison 
+[LOG][Wed Sep 14 12:25:08 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220909.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220909.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 12:25:08 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220912.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220912.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 12:25:08 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220913.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220913.txt ³ֹ¹¦ 
+[SUCCESS][Wed Sep 14 12:25:08 2022] Version data successly send 
+[SUCCESS][Wed Sep 14 12:25:08 2022] Version data successly send 
+[LOG][Wed Sep 14 12:30:27 2022] version commit information : ‎‎‎‎ÝÝÝÝ$—Bױ 
+[WARNING][Wed Sep 14 12:30:35 2022] Command Not Found : git push -m origin master 
+[WARNING][Wed Sep 14 12:30:35 2022] You can use git --help for more details 
+[LOG][Wed Sep 14 12:31:47 2022] version commit information : newversion 
+[LOG][Wed Sep 14 12:32:45 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220909.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220909.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 12:32:45 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220912.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220912.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 12:32:45 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220913.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220913.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 12:32:45 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220914.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220914.txt ³ֹ¹¦ 
+[SUCCESS][Wed Sep 14 12:34:15 2022] Version data successly send 
+[LOG][Wed Sep 14 12:36:18 2022] version commit information : newversion 
+[LOG][Wed Sep 14 12:37:00 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220909.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220909.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 12:37:00 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220912.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220912.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 12:37:00 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220913.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220913.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 12:37:00 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220914.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220914.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 12:38:48 2022] version commit information : newversion 
+[LOG][Wed Sep 14 12:41:23 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220909.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220909.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 12:41:23 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220912.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220912.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 12:41:23 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220913.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220913.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 12:41:23 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220914.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220914.txt ³ֹ¹¦ 
+[SUCCESS][Wed Sep 14 12:42:07 2022] Version data successly send 
+[LOG][Wed Sep 14 12:47:19 2022] version commit information : newversion 
+[LOG][Wed Sep 14 12:48:05 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220909.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220909.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 14:34:33 2022] version commit information : newversion 
+[LOG][Wed Sep 14 14:36:43 2022] version commit information : newversion 
+[LOG][Wed Sep 14 14:37:00 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220909.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220909.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 14:37:00 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220912.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220912.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 14:37:00 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220913.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220913.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 14:37:00 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220914.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220914.txt ³ֹ¹¦ 
+[SUCCESS][Wed Sep 14 14:37:05 2022] Version data successly send 
+[LOG][Wed Sep 14 14:40:45 2022] version commit information : newversion 
+[LOG][Wed Sep 14 14:40:54 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220909.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220909.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 14:40:54 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220912.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220912.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 14:40:54 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220913.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220913.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 14:40:54 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220914.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220914.txt ³ֹ¹¦ 
+[SUCCESS][Wed Sep 14 14:40:55 2022] Version data successly send 
+[LOG][Wed Sep 14 14:42:12 2022] version commit information : ‎‎‎‎ÝÝÝÝ1Lענ!g 
+[LOG][Wed Sep 14 14:42:22 2022] version commit information : newversion 
+[LOG][Wed Sep 14 14:42:26 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220909.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220909.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 14:42:26 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220912.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220912.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 14:42:26 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220913.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220913.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 14:42:26 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220914.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220914.txt ³ֹ¹¦ 
+[SUCCESS][Wed Sep 14 14:42:26 2022] Version data successly send 
+[LOG][Wed Sep 14 14:43:10 2022] version commit information : newversion 
+[LOG][Wed Sep 14 14:43:16 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220909.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220909.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 14:43:16 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220912.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220912.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 14:43:16 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220913.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220913.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 14:43:16 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220914.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220914.txt ³ֹ¹¦ 
+[SUCCESS][Wed Sep 14 14:43:16 2022] Version data successly send 
+[LOG][Wed Sep 14 14:44:20 2022] version commit information : newversion 
+[LOG][Wed Sep 14 14:44:25 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220909.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220909.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 14:44:25 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220912.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220912.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 14:44:25 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220913.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220913.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 14:44:25 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220914.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220914.txt ³ֹ¹¦ 
+[SUCCESS][Wed Sep 14 14:44:25 2022] Version data successly send 
+[LOG][Wed Sep 14 14:52:36 2022] version commit information : newversion 
+[LOG][Wed Sep 14 14:52:49 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220909.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220909.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 14:52:49 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220912.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220912.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 14:52:49 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220913.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220913.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 14:52:49 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220914.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220914.txt ³ֹ¹¦ 
+[SUCCESS][Wed Sep 14 14:52:49 2022] Version data successly send 
+[SUCCESS][Wed Sep 14 14:52:49 2022] Version data successly send 
+[LOG][Wed Sep 14 14:59:46 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220909.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220909.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 14:59:46 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220912.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220912.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 14:59:46 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220913.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220913.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 14:59:46 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220914.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220914.txt ³ֹ¹¦ 
+[SUCCESS][Wed Sep 14 14:59:46 2022] Version data successly send 
+[SUCCESS][Wed Sep 14 14:59:46 2022] Version data successly send 
+[LOG][Wed Sep 14 15:00:17 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220909.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220909.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 15:00:17 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220912.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220912.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 15:00:17 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220913.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220913.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 15:00:17 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220914.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220914.txt ³ֹ¹¦ 
+[SUCCESS][Wed Sep 14 15:00:17 2022] Version data successly send 
+[SUCCESS][Wed Sep 14 15:00:17 2022] Version data successly send 
+[LOG][Wed Sep 14 15:01:15 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220909.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220909.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 15:01:15 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220912.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220912.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 15:01:15 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220913.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220913.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 15:01:15 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220914.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220914.txt ³ֹ¹¦ 
+[SUCCESS][Wed Sep 14 15:01:15 2022] Version data successly send 
+[SUCCESS][Wed Sep 14 15:01:15 2022] Version data successly send 
+[LOG][Wed Sep 14 15:05:32 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220909.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220909.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 15:05:32 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220912.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220912.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 15:05:32 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220913.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220913.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 15:05:32 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220914.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220914.txt ³ֹ¹¦ 
+[SUCCESS][Wed Sep 14 15:05:32 2022] Version data successly send 
+[SUCCESS][Wed Sep 14 15:05:32 2022] Version data successly send 
+[LOG][Wed Sep 14 15:09:15 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220909.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220909.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 15:09:15 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220912.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220912.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 15:09:15 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220913.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220913.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 15:09:15 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220914.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220914.txt ³ֹ¹¦ 
+[SUCCESS][Wed Sep 14 15:09:15 2022] Version data successly send 
+[SUCCESS][Wed Sep 14 15:09:15 2022] Version data successly send 
+[LOG][Wed Sep 14 15:10:58 2022] version commit information : newversion 
+[ERROR][Wed Sep 14 15:11:16 2022] Server Connect Failed! 
+[LOG][Wed Sep 14 15:14:05 2022] version commit information : newversion 
+[ERROR][Wed Sep 14 15:14:23 2022] Server Connect Failed! 
+[LOG][Wed Sep 14 15:18:51 2022] version commit information : newversion 
+[ERROR][Wed Sep 14 15:18:53 2022] Server Connect Failed! 
+[ERROR][Wed Sep 14 15:21:05 2022] Server Connect Failed! 
+[LOG][Wed Sep 14 15:21:47 2022] version commit information : newversion 
+[ERROR][Wed Sep 14 15:21:51 2022] Server Connect Failed! 
+[LOG][Wed Sep 14 15:23:14 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220909.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220909.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 15:23:14 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220912.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220912.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 15:23:14 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220913.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220913.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 15:23:14 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220914.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220914.txt ³ֹ¹¦ 
+[SUCCESS][Wed Sep 14 15:23:14 2022] Version data successly send 
+[SUCCESS][Wed Sep 14 15:23:14 2022] Version data successly send 
+[ERROR][Wed Sep 14 15:25:14 2022] Server Connect Failed! 
+[LOG][Wed Sep 14 15:27:34 2022] version commit information : newversion 
+[LOG][Wed Sep 14 20:23:48 2022] version commit information : NewVersion 
+[LOG][Wed Sep 14 20:25:36 2022] version commit information : NewVersion 
+[LOG][Wed Sep 14 20:28:34 2022] version commit information : NewVersion 
+[LOG][Wed Sep 14 20:28:52 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220909.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220909.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 20:28:52 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220912.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220912.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 20:28:52 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220913.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220913.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 20:28:52 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220914.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220914.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 20:36:32 2022] version commit information : NewVersion 
+[LOG][Wed Sep 14 20:37:24 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220909.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220909.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 20:37:24 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220912.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220912.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 20:37:24 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220913.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220913.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 20:37:24 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220914.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220914.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 20:45:52 2022] version commit information : NewVersion 
+[LOG][Wed Sep 14 20:46:03 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220909.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220909.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 20:46:03 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220912.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220912.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 20:46:03 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220913.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220913.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 20:46:03 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220914.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220914.txt ³ֹ¹¦ 
+[ERROR][Wed Sep 14 21:08:04 2022] Server Connect Failed! 
+[LOG][Wed Sep 14 21:08:32 2022] version commit information : NewVersion 
+[ERROR][Wed Sep 14 21:12:35 2022] Server Connect Failed! 
+[LOG][Wed Sep 14 21:13:25 2022] version commit information : NewVersion 
+[LOG][Wed Sep 14 21:16:50 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220909.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220909.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 21:16:50 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220912.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220912.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 21:16:50 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220913.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220913.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 21:16:50 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220914.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220914.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 21:17:52 2022] version commit information : NewVersion 
+[LOG][Wed Sep 14 21:19:17 2022] version commit information : NewVersion 
+[WARNING][Wed Sep 14 21:19:37 2022] Command Not Found : git push -m origin master 
+[WARNING][Wed Sep 14 21:19:37 2022] You can use git --help for more details 
+[LOG][Wed Sep 14 21:19:57 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220909.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220909.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 21:19:57 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220912.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220912.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 21:19:57 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220913.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220913.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 21:19:57 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220914.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220914.txt ³ֹ¹¦ 
+[SUCCESS][Wed Sep 14 21:19:57 2022] Version data successly send 
+[LOG][Wed Sep 14 21:20:35 2022] version commit information : NewVersion 
+[WARNING][Wed Sep 14 21:20:38 2022] Command Not Found : git push -m origin master 
+[WARNING][Wed Sep 14 21:20:38 2022] You can use git --help for more details 
+[LOG][Wed Sep 14 21:22:14 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220909.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220909.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 21:22:14 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220912.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220912.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 21:22:14 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220913.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220913.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 21:22:14 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220914.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220914.txt ³ֹ¹¦ 
+[SUCCESS][Wed Sep 14 21:22:14 2022] Version data successly send 
+[SUCCESS][Wed Sep 14 21:22:14 2022] Version data successly send 
+[LOG][Wed Sep 14 21:39:15 2022] version commit information : NewVersion 
+[ERROR][Wed Sep 14 21:39:38 2022] Server Connect Failed! 
+[LOG][Wed Sep 14 21:39:50 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220909.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220909.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 21:39:50 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220912.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220912.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 21:39:50 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220913.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220913.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 21:39:50 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220914.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220914.txt ³ֹ¹¦ 
+[SUCCESS][Wed Sep 14 21:39:50 2022] Version data successly send 
+[SUCCESS][Wed Sep 14 21:39:50 2022] Version data successly send 
+[ERROR][Wed Sep 14 21:40:00 2022] Server Connect Failed! 
+[LOG][Wed Sep 14 21:40:02 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220909.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220909.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 21:40:02 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220912.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220912.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 21:40:02 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220913.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220913.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 21:40:02 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220914.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220914.txt ³ֹ¹¦ 
+[SUCCESS][Wed Sep 14 21:40:02 2022] Version data successly send 
+[SUCCESS][Wed Sep 14 21:40:02 2022] Version data successly send 
+[LOG][Wed Sep 14 21:44:14 2022] version commit information : ‎‎‎‎ÝÝÝÝ#¸תˆ«9 
+[ERROR][Wed Sep 14 21:44:25 2022] Server Connect Failed! 
+[LOG][Wed Sep 14 21:44:31 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220909.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220909.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 21:44:31 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220912.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220912.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 21:44:31 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220913.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220913.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 21:44:31 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220914.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220914.txt ³ֹ¹¦ 
+[SUCCESS][Wed Sep 14 21:44:31 2022] Version data successly send 
+[SUCCESS][Wed Sep 14 21:44:31 2022] Version data successly send 
+[ERROR][Wed Sep 14 21:48:52 2022] Server Connect Failed! 
+[LOG][Wed Sep 14 21:48:55 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220909.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220909.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 21:48:55 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220912.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220912.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 21:48:55 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220913.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220913.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 21:48:55 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220914.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220914.txt ³ֹ¹¦ 
+[SUCCESS][Wed Sep 14 21:48:55 2022] Version data successly send 
+[SUCCESS][Wed Sep 14 21:48:55 2022] Version data successly send 
+[ERROR][Wed Sep 14 21:49:18 2022] Server Connect Failed! 
+[LOG][Wed Sep 14 21:49:19 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220909.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220909.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 21:49:19 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220912.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220912.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 21:49:19 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220913.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220913.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 21:49:19 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220914.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220914.txt ³ֹ¹¦ 
+[SUCCESS][Wed Sep 14 21:49:20 2022] Version data successly send 
+[SUCCESS][Wed Sep 14 21:49:20 2022] Version data successly send 
+[ERROR][Wed Sep 14 21:50:06 2022] Server Connect Failed! 
+[LOG][Wed Sep 14 21:55:16 2022] version commit information : NewPush 
+[WARNING][Wed Sep 14 21:55:26 2022] Command Not Found : git push -u origin mater 
+[WARNING][Wed Sep 14 21:55:26 2022] You can use git --help for more details 
+[ERROR][Wed Sep 14 21:55:33 2022] Server Connect Failed! 
+[LOG][Wed Sep 14 21:55:44 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220909.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220909.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 21:55:44 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220912.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220912.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 21:55:44 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220913.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220913.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 21:55:44 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220914.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220914.txt ³ֹ¹¦ 
+[SUCCESS][Wed Sep 14 21:55:44 2022] Version data successly send 
+[SUCCESS][Wed Sep 14 21:55:44 2022] Version data successly send 
+[LOG][Wed Sep 14 21:56:59 2022] version commit information : NewPush 
+[LOG][Wed Sep 14 21:59:06 2022] version commit information : NewPush 
+[WARNING][Wed Sep 14 21:59:07 2022] Command Not Found : git push -u origin mater 
+[WARNING][Wed Sep 14 21:59:07 2022] You can use git --help for more details 
+[WARNING][Wed Sep 14 22:03:16 2022] Command Not Found : git push -u origin mater 
+[WARNING][Wed Sep 14 22:03:16 2022] You can use git --help for more details 
+[LOG][Wed Sep 14 22:03:20 2022] version commit information : NewPush 
+[LOG][Wed Sep 14 22:03:23 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220909.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220909.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 22:03:24 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220912.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220912.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 22:03:24 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220913.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220913.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 22:03:24 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220914.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220914.txt ³ֹ¹¦ 
+[SUCCESS][Wed Sep 14 22:03:24 2022] Version data successly send 
+[SUCCESS][Wed Sep 14 22:03:24 2022] Version data successly send 
+[LOG][Wed Sep 14 22:04:29 2022] version commit information : NewVersion 
+[LOG][Wed Sep 14 22:04:47 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220909.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220909.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 22:04:47 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220912.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220912.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 22:04:47 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220913.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220913.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 22:04:47 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220914.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220914.txt ³ֹ¹¦ 
+[SUCCESS][Wed Sep 14 22:04:47 2022] Version data successly send 
+[SUCCESS][Wed Sep 14 22:04:47 2022] Version data successly send 
+[LOG][Wed Sep 14 22:09:20 2022] version commit information : NewPush 
+[LOG][Wed Sep 14 22:09:27 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220909.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220909.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 22:09:27 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220912.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220912.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 22:09:27 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220913.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220913.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 22:09:27 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220914.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220914.txt ³ֹ¹¦ 
+[SUCCESS][Wed Sep 14 22:16:42 2022] Version data successly send 
+[SUCCESS][Wed Sep 14 22:30:23 2022] Version data successly send 
+[LOG][Wed Sep 14 22:31:02 2022] version commit information : NewVersion 
+[LOG][Wed Sep 14 22:31:12 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220909.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220909.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 22:31:12 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220912.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220912.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 22:31:12 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220913.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220913.txt ³ֹ¹¦ 
+[LOG][Wed Sep 14 22:31:12 2022] ½«ֲ·¾¶ֲֿµִ C:\Users\11692\Desktop\SimpleGit\log\20220914.txt ְ­ָ¡µ½ C:\Users\11692\Desktop\SimpleGit_Server\SimpleGit\log\20220914.txt ³ֹ¹¦ 
+[SUCCESS][Wed Sep 14 22:31:14 2022] Version data successly send 
+[SUCCESS][Wed Sep 14 22:31:16 2022] Version data successly send 

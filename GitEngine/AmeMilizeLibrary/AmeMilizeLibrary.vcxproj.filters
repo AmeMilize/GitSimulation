@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="AmeMilizeLibrary\CLibrary\CoreMinimal\Core\Algorithm\Private\StringAlgorithm.c" />
+    <ClCompile Include="AmeMilizeLibrary\CLibrary\CoreMinimal\Core\Array\Private\CArrayString.c" />
+    <ClCompile Include="AmeMilizeLibrary\CLibrary\CoreMinimal\Guid\Private\Guid.c" />
+    <ClCompile Include="AmeMilizeLibrary\CLibrary\CoreMinimal\Path\Private\Path.c" />
+    <ClCompile Include="AmeMilizeLibrary\CLibrary\CoreMinimal\Windows\Command\Private\WindowsSettings.c" />
+    <ClCompile Include="AmeMilizeLibrary\CLibrary\CoreMinimal\Windows\Registry\Private\Registry.c" />
+    <ClCompile Include="AmeMilizeLibrary\CLibrary\CoreMinimal\FileOperate\Private\FileOperate.c" />
+    <ClCompile Include="AmeMilizeLibrary\CLibrary\Log\Private\LogSystem.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AmeMilizeLibrary\CLibrary\CoreMinimal\Core\Algorithm\Public\StringAlgorithm.h" />
+    <ClInclude Include="AmeMilizeLibrary\CLibrary\CoreMinimal\Core\Array\Public\Core\CArrayMacro.h" />
+    <ClInclude Include="AmeMilizeLibrary\CLibrary\CoreMinimal\Core\Array\Public\CArray.h" />
+    <ClInclude Include="AmeMilizeLibrary\CLibrary\CoreMinimal\Core\Array\Public\CArrayString.h" />
+    <ClInclude Include="AmeMilizeLibrary\CLibrary\CoreMinimal\FileOperate\Public\FileOperate.h" />
+    <ClInclude Include="AmeMilizeLibrary\CLibrary\CoreMinimal\Guid\Public\Guid.h" />
+    <ClInclude Include="AmeMilizeLibrary\CLibrary\CoreMinimal\Path\Public\Path.h" />
+    <ClInclude Include="AmeMilizeLibrary\CLibrary\CoreMinimal\Windows\Command\Public\WindowsSettings.h" />
+    <ClInclude Include="AmeMilizeLibrary\CLibrary\CoreMinimal\Windows\Registry\Public\Registry.h" />
+    <ClInclude Include="AmeMilizeLibrary\CLibrary\CoreMinimal\Core\CoreMinimal.h" />
+    <ClInclude Include="AmeMilizeLibrary\CLibrary\Log\Public\LogSystem.h" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,74 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GitEngine_Client", "GitEngine_Client\GitEngine_Client.vcxproj", "{BFE5917C-1614-4BAF-9067-C0064A59ED92}"
+	ProjectSection(ProjectDependencies) = postProject
+		{517ABFB3-94EF-473F-985D-669DBB05239E} = {517ABFB3-94EF-473F-985D-669DBB05239E}
+		{AE1CA215-AC53-414F-BEFF-BA54C4F62F64} = {AE1CA215-AC53-414F-BEFF-BA54C4F62F64}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GitEngine_Server", "GitEngine_Server\GitEngine_Server.vcxproj", "{2ABEE42F-E2C0-417A-8E5D-5281F9C46812}"
+	ProjectSection(ProjectDependencies) = postProject
+		{517ABFB3-94EF-473F-985D-669DBB05239E} = {517ABFB3-94EF-473F-985D-669DBB05239E}
+		{AE1CA215-AC53-414F-BEFF-BA54C4F62F64} = {AE1CA215-AC53-414F-BEFF-BA54C4F62F64}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AmeMilizeLibrary", "AmeMilizeLibrary\AmeMilizeLibrary.vcxproj", "{AE1CA215-AC53-414F-BEFF-BA54C4F62F64}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GitEngineCore", "GitEngineCore", "{B53505F2-9A5B-4989-B780-32FC22468A8C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GitProtocol", "GitProtocol\GitProtocol.vcxproj", "{517ABFB3-94EF-473F-985D-669DBB05239E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{AE1CA215-AC53-414F-BEFF-BA54C4F62F64} = {AE1CA215-AC53-414F-BEFF-BA54C4F62F64}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFE5917C-1614-4BAF-9067-C0064A59ED92}.Debug|x64.ActiveCfg = Debug|x64
+		{BFE5917C-1614-4BAF-9067-C0064A59ED92}.Debug|x64.Build.0 = Debug|x64
+		{BFE5917C-1614-4BAF-9067-C0064A59ED92}.Debug|x86.ActiveCfg = Debug|Win32
+		{BFE5917C-1614-4BAF-9067-C0064A59ED92}.Debug|x86.Build.0 = Debug|Win32
+		{BFE5917C-1614-4BAF-9067-C0064A59ED92}.Release|x64.ActiveCfg = Release|x64
+		{BFE5917C-1614-4BAF-9067-C0064A59ED92}.Release|x64.Build.0 = Release|x64
+		{BFE5917C-1614-4BAF-9067-C0064A59ED92}.Release|x86.ActiveCfg = Release|Win32
+		{BFE5917C-1614-4BAF-9067-C0064A59ED92}.Release|x86.Build.0 = Release|Win32
+		{2ABEE42F-E2C0-417A-8E5D-5281F9C46812}.Debug|x64.ActiveCfg = Debug|x64
+		{2ABEE42F-E2C0-417A-8E5D-5281F9C46812}.Debug|x64.Build.0 = Debug|x64
+		{2ABEE42F-E2C0-417A-8E5D-5281F9C46812}.Debug|x86.ActiveCfg = Debug|Win32
+		{2ABEE42F-E2C0-417A-8E5D-5281F9C46812}.Debug|x86.Build.0 = Debug|Win32
+		{2ABEE42F-E2C0-417A-8E5D-5281F9C46812}.Release|x64.ActiveCfg = Release|x64
+		{2ABEE42F-E2C0-417A-8E5D-5281F9C46812}.Release|x64.Build.0 = Release|x64
+		{2ABEE42F-E2C0-417A-8E5D-5281F9C46812}.Release|x86.ActiveCfg = Release|Win32
+		{2ABEE42F-E2C0-417A-8E5D-5281F9C46812}.Release|x86.Build.0 = Release|Win32
+		{AE1CA215-AC53-414F-BEFF-BA54C4F62F64}.Debug|x64.ActiveCfg = Debug|x64
+		{AE1CA215-AC53-414F-BEFF-BA54C4F62F64}.Debug|x64.Build.0 = Debug|x64
+		{AE1CA215-AC53-414F-BEFF-BA54C4F62F64}.Debug|x86.ActiveCfg = Debug|Win32
+		{AE1CA215-AC53-414F-BEFF-BA54C4F62F64}.Debug|x86.Build.0 = Debug|Win32
+		{AE1CA215-AC53-414F-BEFF-BA54C4F62F64}.Release|x64.ActiveCfg = Release|x64
+		{AE1CA215-AC53-414F-BEFF-BA54C4F62F64}.Release|x64.Build.0 = Release|x64
+		{AE1CA215-AC53-414F-BEFF-BA54C4F62F64}.Release|x86.ActiveCfg = Release|Win32
+		{AE1CA215-AC53-414F-BEFF-BA54C4F62F64}.Release|x86.Build.0 = Release|Win32
+		{517ABFB3-94EF-473F-985D-669DBB05239E}.Debug|x64.ActiveCfg = Debug|x64
+		{517ABFB3-94EF-473F-985D-669DBB05239E}.Debug|x64.Build.0 = Debug|x64
+		{517ABFB3-94EF-473F-985D-669DBB05239E}.Debug|x86.ActiveCfg = Debug|Win32
+		{517ABFB3-94EF-473F-985D-669DBB05239E}.Debug|x86.Build.0 = Debug|Win32
+		{517ABFB3-94EF-473F-985D-669DBB05239E}.Release|x64.ActiveCfg = Release|x64
+		{517ABFB3-94EF-473F-985D-669DBB05239E}.Release|x64.Build.0 = Release|x64
+		{517ABFB3-94EF-473F-985D-669DBB05239E}.Release|x86.ActiveCfg = Release|Win32
+		{517ABFB3-94EF-473F-985D-669DBB05239E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE0283BA-358E-4731-B010-8D78074D8E0C}
+	EndGlobalSection
+EndGlobal
