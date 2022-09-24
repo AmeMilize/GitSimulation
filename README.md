@@ -5,7 +5,7 @@
 
 A simple simulation of git in local place.
 
-For C really beinner.
+For C really beiginner.
 
 实现了一些Git的简单命令如：git init、git add、git commit、git push、git pull等。
 
